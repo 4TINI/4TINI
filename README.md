@@ -1,4 +1,8 @@
-### Hi there 👋
+Hi! I'm Luca!
+
+Welcome to my Github Profile!
+
+### My Latest Blog Post in Medium 
 
 <!--
 **4TINI/4TINI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +18,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@luca4tini/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@luca4tini/0" alt="Recent Article 0"> 
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@luca4tini/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@luca4tini/1" alt="Recent Article 1"> 
+
+
